@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TestAnim</string>
+    <string name="start_1_anim">Начать 1 анимацию</string>
+    <string name="start_2_anim">Начать 2 анимацию</string>
+</resources>
